@@ -1,0 +1,7 @@
+{
+  "name": "NexIA-salud-confort-celaya",
+  "description": "Marketplace de equipamiento médico con IA para el Bajío.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
